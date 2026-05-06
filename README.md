@@ -9,7 +9,15 @@ This repository hosts release artifacts only. Source is not public.
 
 ### macOS / Linux (Homebrew)
 
-```sh
+First install the tap locally:
+
+```bash
+brew tap pyck-ai/tap
+```
+
+Then install:
+
+```bash
 brew install pyck-ai/tap/pyck
 ```
 
